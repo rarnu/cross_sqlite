@@ -1,0 +1,14 @@
+.DS_Store
+lib/
+engine/lib/
+fpExtend/lib/
+*.lps
+*.so
+*.dylib
+*.dll
+out/
+linksyms.fpc
+ppaslink.sh
+ppas.sh
+
+
